@@ -1,0 +1,24 @@
+# SCOPE
+
+> SCOPE is a free-pilot platform in India for micro-internships and skill-based hiring. Students complete small, real tasks for startups, build verified proof of skill that startups can see. Startups post a task, review an anonymous top-3 shortlist, hold the bounty in escrow, and release payment in milestones after sign-off.
+
+Key facts:
+- Name: SCOPE (tagline: "Prove your skills. Show your work.")
+- Audience: college students in India (any branch) and early-stage startups
+- Status: free pilot. Wallet payments are simulated and no real money moves yet.
+- Pricing: free for students. Startups post free tasks at no cost. Funded tasks carry an 8% service fee on top of the bounty. The full-time hiring fee is waived during the pilot.
+- Currency: Indian rupees
+- Privacy: applicants are anonymous to startups (year, branch, skills, proof points and match score only) until a startup picks them for a task.
+- Payouts: bounty held in escrow and released in two milestones, 30% at kickoff and 70% at final delivery, after startup sign-off.
+- Proof of skill: daily skill checks plus signed-off tasks produce credentials and skill proof points.
+- Website: https://scope-prove-your-skills.netlify.app/
+
+## Pages
+- [Home / open the app](https://scope-prove-your-skills.netlify.app/): create an account as a student or startup.
+- [For students](https://scope-prove-your-skills.netlify.app/students/): how students find tasks, deliver work and build proof of skill.
+- [For startups](https://scope-prove-your-skills.netlify.app/startups/): how startups post tasks, shortlist, hire and pay.
+- [How it works](https://scope-prove-your-skills.netlify.app/how-it-works/): the full flow from task to payout.
+- [Micro-internship guide](https://scope-prove-your-skills.netlify.app/micro-internships/): what micro-internships are, whether they are paid, and how to find and do one.
+- [Learn guides](https://scope-prove-your-skills.netlify.app/learn/): first internship with no experience, portfolio projects, hiring interns, skill-based hiring, pricing micro-tasks, resumes.
+- [FAQ](https://scope-prove-your-skills.netlify.app/faq/): pricing, payments, privacy, matching and verification.
+- [About](https://scope-prove-your-skills.netlify.app/about/), [Privacy Policy](https://scope-prove-your-skills.netlify.app/privacy/), [Terms](https://scope-prove-your-skills.netlify.app/terms/).
